@@ -1,0 +1,33 @@
+chapter: Fig 1
+
+chapter-aka: A Facsimile from the Book of Abraham. No. 1.
+
+chapter-sum: Taken from Times and Seasons, 1 March 1842.
+
+svg: facsimile-1.svg
+
+notes: {1} {2} {3} {4} {5} {6} {7} {8} {9} {10} {11} {12}
+
+[1] The Angel of the Lord.
+
+[2] Abraham, fastened upon an altar.
+
+[3] The Idolatrous Priest of Elkenah attempting to offer up Abraham as a sacrifice.
+
+[4] The Altar for sacrifice by the Idolatrous Priests standings before the Gods of Elkenah, and Libnah, and Mahmackrah, Korash and Pharaoh.
+
+[5] The Idolatrous God of Elkenah.
+
+[6] The Idolatrous God of Libnah.
+
+[7] The Idolatrous God of Mahmackrah.
+
+[8] The Idolatrous God of Korash.
+
+[9] The Idolatrous God of Pharaoh.
+
+[10] Abraham in Egypt.
+
+[11] Designed to represent the pillars of heaven as understood by the Egyptians.
+
+[12] Raukeeyang. Signifying expanse or firmament over our heads; but in this case, in relation to this subject, the Egyptians meant it to Signify Shaumau, to or be highs, heaven; or the heavens; answering to the Hebrew word, Shaumahyeem.

@@ -1,0 +1,11 @@
+book: The Book of Abraham
+
+book-sum: A translation of some ancient Records that have fallen into our hands, from the Catacombs of Egypt, purporting to be the writings of Abraham, while he was in Egypt, called the Book of Abraham, written by his own hand, upon papyrus.
+
+include: ./chapters.txt
+
+include: ./fig1.txt
+
+include: ./fig2.txt
+
+include: ./fig3.txt

@@ -1,0 +1,25 @@
+{
+    "name": "book-of-abraham.times-and-seasons.1842",
+    "version": "1.0.0",
+    "description": "The Book of Abraham, as published in the Times and Seasons in May 1842, formatted to be reusable in content libraries.",
+    "license": "CC0-1.0",
+    "author": "Joseph Smith, Jr.",
+    "editors": [
+        "Brent Larsen"
+    ],
+    "keywords": [
+        "book of abraham"
+    ],
+    "homepage": "https://github.com/school-of-prophets/book-of-abraham.times-and-seasons.1842#readme",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/school-of-prophets/book-of-abraham.times-and-seasons.1842.git"
+    },
+    "bugs": {
+      "url": "https://github.com/school-of-prophets/book-of-abraham.times-and-seasons.1842/issues"
+    },
+    "scripts": {
+        "start": "echo \"Error: no scripts to run\" && exit 1",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }  
+}
